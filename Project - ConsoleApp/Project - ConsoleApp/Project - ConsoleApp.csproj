@@ -17,12 +17,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\AuthorDTO\" />
-    <Folder Include="DTOs\LoanDTO\" />
-    <Folder Include="DTOs\LoanItemDTO\" />
-    <Folder Include="DTOs\BorrowerDTO\" />
-    <Folder Include="Services\Implementation\" />
-  </ItemGroup>
-
 </Project>

@@ -13,5 +13,6 @@ namespace Project___ConsoleApp.Repository.Interface
         void Commit();
         List<T> GetAll();
         void Delete(T entity);
+         T GetById(int id);
     }
 }

@@ -1,106 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\implementation\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\implementation\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\dtos\\bookdto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\bookdto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\implementation\\loanitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\implementation\\loanitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\dtos\\bookdto\\getallbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\bookdto\\getallbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\implementation\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\implementation\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\dtos\\bookdto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\bookdto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loandto\\createloandto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loandto\\createloandto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\implementation\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\implementation\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\migrations\\20250201130258_initialmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\migrations\\20250201130258_initialmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\loanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\loanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\implementation\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementation\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iloanrepesitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iloanrepesitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iloanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iloanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\interface\\iloanitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\iloanitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loandto\\getallloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loandto\\getallloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\interface\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\interface\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\interface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\borrowerdto\\getallborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\borrowerdto\\getallborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\allexceptions\\invaliidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\allexceptions\\invaliidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\allexceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\allexceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\authordto\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\authordto\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\borrowerdto\\createborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\borrowerdto\\createborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loanitemdto\\createloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loanitemdto\\createloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\bookdto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\bookdto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\authordto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\authordto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\authordto\\getallauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\authordto\\getallauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\loanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\loanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\class library\\project - consoleapp\\project - consoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loandto\\updateloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loandto\\updateloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\bookdto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\bookdto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loanitemdto\\updateloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loanitemdto\\updateloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\loanitemdto\\getallloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\loanitemdto\\getallloanitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\dtos\\borrowerdto\\updateborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\dtos\\borrowerdto\\updateborrowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iloanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iloanitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\migrations\\20250201130258_initialmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\migrations\\20250201130258_initialmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\project library\\project - consoleapp\\project - consoleapp\\repositorys\\interface\\iloanrepesitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABC0EB8-814E-4452-A750-36FE1BF2D4BE}|Project - ConsoleApp\\Project - ConsoleApp.csproj|solutionrelative:project - consoleapp\\repositorys\\interface\\iloanrepesitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,284 +202,37 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\GetAllBookDTO.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BookDTO\\GetAllBookDTO.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\GetAllBookDTO.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BookDTO\\GetAllBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T14:41:47.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "LoanItemService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\LoanItemService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Implementation\\LoanItemService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\LoanItemService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Implementation\\LoanItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T14:40:21.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T14:37:29.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T14:29:01.498Z",
+              "WhenOpened": "2025-02-02T11:32:56.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\BookRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Loan.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:24:24.181Z",
+              "WhenOpened": "2025-02-01T12:01:09.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\AuthorRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\AuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:23:58.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\GenericRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:25:51.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Book.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:00:21.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:44:24.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:03:03.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BorrowerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\BorrowerRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\BorrowerRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\BorrowerRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\BorrowerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:24:45.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Borrower.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Borrower.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Borrower.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Borrower.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Models\\Borrower.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:00:47.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250201130258_InitialMig.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:02:58.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:11:00.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoanItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\LoanItemRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\LoanItemRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\LoanItemRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\LoanItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:25:12.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\LoanRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementation\\LoanRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementation\\LoanRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementation\\LoanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:24:58.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILoanRepesitory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:13:39.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ILoanItemrepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:21:44.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IBorrowerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:21:27.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:20:45.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:21:04.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "LoanItem.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\LoanItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\LoanItem.cs",
               "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\LoanItem.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\LoanItem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\LoanItem.cs",
               "RelativeToolTip": "Project - ConsoleApp\\Models\\LoanItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,42 +241,577 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Loan.cs",
-              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Loan.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Loan.cs",
-              "RelativeToolTip": "Project - ConsoleApp\\Models\\Loan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\BorrowerService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Implementation\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\BorrowerService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Implementation\\BorrowerService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T12:01:09.851Z",
+              "WhenOpened": "2025-02-02T11:32:19.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 3,
+              "Title": "CreateLoanDTO .cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\CreateLoanDTO .cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanDTO\\CreateLoanDTO .cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\CreateLoanDTO .cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanDTO\\CreateLoanDTO .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:44:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Borrower.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:00:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Book.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:00:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\LoanService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Implementation\\LoanService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\LoanService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Implementation\\LoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:33:21.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILoanItemService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\ILoanItemService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\ILoanItemService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\ILoanItemService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\ILoanItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:33:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Implementation\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\AuthorService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Implementation\\AuthorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:31:56.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllLoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\GetAllLoanDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanDTO\\GetAllLoanDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\GetAllLoanDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanDTO\\GetAllLoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:45:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\ILoanService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\ILoanService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:33:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBorrowerService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\IBorrowerService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBorrowerService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\IBorrowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:32:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IAuthorService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:31:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:29:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllBorrowerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\GetAllBorrowerDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\GetAllBorrowerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\GetAllBorrowerDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\GetAllBorrowerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:43:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\BookService.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Services\\Implementation\\BookService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Services\\Implementation\\BookService.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Services\\Implementation\\BookService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:31:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Author.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\Author.cs",
               "RelativeToolTip": "Project - ConsoleApp\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T12:00:32.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvaliIdException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\AllExceptions\\InvaliIdException.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\AllExceptions\\InvaliIdException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\AllExceptions\\InvaliIdException.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\AllExceptions\\InvaliIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:28:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\AllExceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\AllExceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\AllExceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\AllExceptions\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:30:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateAuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\CreateAuthorDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\AuthorDTO\\CreateAuthorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\CreateAuthorDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\AuthorDTO\\CreateAuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:41:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateBorrowerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\CreateBorrowerDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\CreateBorrowerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\CreateBorrowerDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\CreateBorrowerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:42:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:11:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "CreateLoanItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\CreateLoanItemDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\CreateLoanItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\CreateLoanItemDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\CreateLoanItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:43:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BookDTO\\CreateBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:37:29.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateAuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\UpdateAuthorDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\AuthorDTO\\UpdateAuthorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\UpdateAuthorDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\AuthorDTO\\UpdateAuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:41:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllAuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\GetAllAuthorDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\AuthorDTO\\GetAllAuthorDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\AuthorDTO\\GetAllAuthorDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\AuthorDTO\\GetAllAuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:42:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\LoanRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\LoanRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:24:58.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:25:51.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:44:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoanItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\LoanItemRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\LoanItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\LoanItemRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\LoanItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:25:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Project - ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\class Library\\Project - ConsoleApp\\Project - ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Program.cs",
               "RelativeToolTip": "Project - ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T11:54:29.12Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\BorrowerRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\BorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\BorrowerRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\BorrowerRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:24:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\BookRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:24:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:03:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Implementations\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Implementations\\AuthorRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Implementations\\AuthorRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:23:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:21:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:20:45.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IBorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\IBorrowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:21:27.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateLoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\UpdateLoanDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanDTO\\UpdateLoanDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanDTO\\UpdateLoanDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanDTO\\UpdateLoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:44:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BookDTO\\UpdateBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:40:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateLoanItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\UpdateLoanItemDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\UpdateLoanItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\UpdateLoanItemDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\UpdateLoanItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:43:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetAllLoanItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\GetAllLoanItemDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\GetAllLoanItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\LoanItemDTO\\GetAllLoanItemDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\LoanItemDTO\\GetAllLoanItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:43:57.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateBorrowerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\UpdateBorrowerDTO.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\UpdateBorrowerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\DTOs\\BorrowerDTO\\UpdateBorrowerDTO.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\DTOs\\BorrowerDTO\\UpdateBorrowerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:42:38.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ILoanItemrepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanItemrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:21:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250201130258_InitialMig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Migrations\\20250201130258_InitialMig.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:02:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ILoanRepesitory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
+              "RelativeDocumentMoniker": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Project Library\\Project - ConsoleApp\\Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
+              "RelativeToolTip": "Project - ConsoleApp\\Repositorys\\Interface\\ILoanRepesitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:13:39.831Z"
             }
           ]
         }
