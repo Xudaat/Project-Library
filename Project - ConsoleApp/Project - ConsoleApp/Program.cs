@@ -280,7 +280,7 @@ namespace Project___ConsoleApp
             try
             {
                 loanService.BorrowBook(borrowerId, bookId);
-                Console.WriteLine("Book borrowed successfully!");
+                Console.WriteLine("Book borrowed!");
             }
             catch (Exception ex)
             {
