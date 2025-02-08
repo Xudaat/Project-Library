@@ -30,7 +30,8 @@ namespace Project___ConsoleApp.Services.Implementation
             {
                 Name = createAuthorDTO.Name,
                 Created = DateTime.UtcNow.AddHours(4),
-                Books = new List<Book>()
+               // Books = new List<Book>(),
+                Update= DateTime.UtcNow.AddHours(4)
             };
             _authorRepocitory.Create(author);
             _authorRepocitory.Commit();
