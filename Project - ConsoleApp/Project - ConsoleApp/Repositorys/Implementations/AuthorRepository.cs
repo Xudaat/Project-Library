@@ -19,15 +19,14 @@ namespace Project___ConsoleApp.Repository.Implementation
             _appDbContext = new AppDbContext();
         }
 
-        public List<Author> GetAllAuhtor()
+        public List<Author> GetAllAuthors()
         {
-            return _appDbContext.Set<Author>().Include(x => x.Authors).ToList();
+            return _appDbContext.Set<Author>().Include(x => x.Books).ToList();
         }
 
-
-        public Author GetAuthorByID(int Id)
+        public Author GetAuthorById(int id)
         {
-            return _appDbContext.Set<Author>().Include(x => x.Authors).FirstOrDefault(x => x.Id == Id);
+            return _appDbContext.Set<Author>().Include(x => x.Books).FirstOrDefault(x => x.Id == id);
         }
     }
 }

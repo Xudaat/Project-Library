@@ -9,7 +9,9 @@ namespace Project___ConsoleApp.DTOs.AuthorDTO
     public class GetAllAuthorDTO
     {
         public int Id { get; set; }
+
         public string Name { get; set; }
-        public List<string>BookTitle { get; set; }
+
+        public List<string> BookTitles { get; set; }
     }
 }

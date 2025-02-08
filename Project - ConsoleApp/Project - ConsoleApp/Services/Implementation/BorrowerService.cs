@@ -15,58 +15,73 @@ namespace Project___ConsoleApp.Services.Implementation
 {
     public class BorrowerService : IBorrowerService
     {
-        private readonly IBorrowerRepository _borrowerRepository;
+        private readonly IBorrowerRepository _borrowerRepocitory;
 
         public BorrowerService()
         {
-            _borrowerRepository = new BorrowerRepository();
+            _borrowerRepocitory = new BorrowerRepository();
         }
+
+
         public void Add(CreateBorrowerDTO createBorrowerDTO)
         {
-            var borrower = new Borrower { Name = createBorrowerDTO.Name, Loans = new List<Loan>() };
-            _borrowerRepository.Create(borrower);
-            _borrowerRepository.Commit();
-        }
+            if (string.IsNullOrWhiteSpace(createBorrowerDTO.Name))
+                throw new InvalidInputException("Borrower name cannot be empty.");
 
+            if (string.IsNullOrWhiteSpace(createBorrowerDTO.Email))
+                throw new InvalidInputException("Email cannot be empty.");
 
-
-        public void Delete(int id)
-        {
-            var borrower = _borrowerRepository.GetAll().FirstOrDefault(x => x.Id == id);
-            if (borrower is null)
+            var borrower = new Borrower
             {
-                throw new InvalidIdException("Borrower not found");
-            }
-            _borrowerRepository.Delete(borrower);
-            _borrowerRepository.Commit();
+                Name = createBorrowerDTO.Name,
+                Email = createBorrowerDTO.Email
+            };
+
+            _borrowerRepocitory.Create(borrower);
+            _borrowerRepocitory.Commit();
         }
 
         public List<GetAllBorrowerDTO> GetAllBorrowers()
         {
-            var borrower = _borrowerRepository.GetAll();
-            if (borrower is null)
+            var borrower = _borrowerRepocitory.GetAll();
+            if (!borrower.Any())
             {
-                throw new InvalidInputException("There is no such borrower");
+                throw new InvalidInputException("There is no borrower!");
             }
-            return _borrowerRepository.GetAll().Select(borrower => new GetAllBorrowerDTO
+            return _borrowerRepocitory.GetAll().Select(borrower => new GetAllBorrowerDTO
             {
                 Id = borrower.Id,
-                Name = borrower.Name,
                 Email = borrower.Email,
+                Name = borrower.Name
+
             }).ToList();
         }
 
-
+        public void Delete(int Id)
+        {
+            var borrower = _borrowerRepocitory.GetAll().FirstOrDefault(x => x.Id == Id);
+            if (borrower is null)
+            {
+                throw new InvalidIdException("Borrower ID not found!");
+            }
+            _borrowerRepocitory.Delete(borrower);
+            _borrowerRepocitory.Commit();
+        }
 
         public void Update(int Id, UpdateBorrowerDTO updateBorrowerDTO)
         {
-            var borrower = _borrowerRepository.GetAll().FirstOrDefault(x => x.Id == Id);
-            if (borrower is null)
+            var borrower = _borrowerRepocitory.GetAll().FirstOrDefault(b => b.Id == Id);
+            if (borrower is null || string.IsNullOrWhiteSpace(borrower.Name))
             {
-                throw new InvalidIdException("Borrower ID not found to Update");
+                throw new InvalidIdException("Borrower ID not found!");
             }
             borrower.Name = updateBorrowerDTO.Name;
-            _borrowerRepository.Commit();
+            borrower.Email = updateBorrowerDTO.Email;
+            borrower.Update = DateTime.UtcNow.AddHours(4);
+            _borrowerRepocitory.Commit();
         }
+
+
+
     }
 }

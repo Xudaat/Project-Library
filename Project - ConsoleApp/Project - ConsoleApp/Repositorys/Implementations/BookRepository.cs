@@ -12,7 +12,7 @@ namespace Project___ConsoleApp.Repository.Implementation
 {
     public class BookRepository : GenericRepository<Book>, IBookRepository
     {
-        AppDbContext  _appDbContext;
+        AppDbContext _appDbContext;
 
         public BookRepository()
         {
@@ -21,7 +21,7 @@ namespace Project___ConsoleApp.Repository.Implementation
 
         public List<Book> GetAllBook()
         {
-            return _appDbContext.Set<Book>().Include(x=>x.Authors).ToList();
+            return _appDbContext.Set<Book>().Include(x => x.Authors).ToList();
         }
 
 

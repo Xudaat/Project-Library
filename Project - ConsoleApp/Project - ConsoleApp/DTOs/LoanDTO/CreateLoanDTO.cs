@@ -6,14 +6,15 @@ using System.Threading.Tasks;
 
 namespace Project___ConsoleApp.DTOs.LoanDTO
 {
-    public class GetAllLOanDTO
+     public class CreateLoanDTO
     {
         public int BorrowerId { get; set; }
+
+        public List<int> BooksId { get; set; } 
 
         public DateTime LoanDate { get; set; }
 
         public DateTime MustReturnDate { get; set; }
-
-        public List<string> BookTitles { get; set; }
     }
+
 }

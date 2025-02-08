@@ -9,6 +9,7 @@ namespace Project___ConsoleApp.Models
     public class Author :BaseEntity
     {
         public string Name { get; set; }
-        public List<Book>Authors { get; set; }
+        public List<Book> Books { get; set; }
     }
 }
+    

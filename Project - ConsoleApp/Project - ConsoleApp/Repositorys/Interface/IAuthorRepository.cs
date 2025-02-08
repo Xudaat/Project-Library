@@ -8,6 +8,6 @@ using System.Threading.Tasks;
 namespace Project___ConsoleApp.Repository.Interface
 {
     public interface IAuthorRepository : IGenericRepository<Author>
-    { 
+    {
     }
 }

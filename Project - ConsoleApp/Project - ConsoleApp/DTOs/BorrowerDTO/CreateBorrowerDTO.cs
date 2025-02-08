@@ -9,5 +9,6 @@ namespace Project___ConsoleApp.DTOs.BorrowerDTO
     public class CreateBorrowerDTO
     {
         public string Name { get; set; }
+        public string Email { get; set; }
     }
 }

@@ -19,19 +19,38 @@ namespace Project___ConsoleApp.Services.Implementation
         }
         public void Add(CreateBookDTO createBookDTO)
         {
-            var book = new Book { Title = createBookDTO.Title, Authors = new List<Author>() };
+            if (createBookDTO.AuthorsId == null || !createBookDTO.AuthorsId.Any())
+            {
+                throw new ArgumentException("Null");
+            }
+            if (string.IsNullOrWhiteSpace(createBookDTO.Title))
+                throw new InvalidInputException("Cannot be empty.");
+
+            var authors = _authorRepository.GetAll()
+                .Where(a => createBookDTO.AuthorsId.Contains(a.Id))
+                .ToList();
+            if (!authors.Any())
+            {
+                throw new InvalidInputException("Author not found!");
+            }
+            var book = new Book
+            {
+                Title = createBookDTO.Title,
+                Desc = createBookDTO.Description,
+                PublishYear = createBookDTO.PublishedYear,
+                Created = DateTime.UtcNow.AddHours(4),
+                Authors = new List<Author>()
+            };
             _bookRepository.Create(book);
             _bookRepository.Commit();
         }
-
-
 
         public void Delete(int id)
         {
             var book = _bookRepository.GetAll().FirstOrDefault(x => x.Id == id);
             if (book is null)
             {
-                throw new InvalidIdException("Book not found");
+                throw new InvalidIdException("Id not found!");
             }
             _bookRepository.Delete(book);
             _bookRepository.Commit();
@@ -46,23 +65,34 @@ namespace Project___ConsoleApp.Services.Implementation
             }
             return _bookRepository.GetAll().Select(book => new GetAllBookDTO
             {
+                IsBorow = book.LoanItem != null,
                 Title = book.Title,
-                PublishedYear = book.PublishedYear,
+                PublishedYear = book.PublishYear,
                 Description = book.Desc,
-                Authors = book.Authors.Select(x => x.Name).ToList()
+                Authors = book.Authors != null ? book.Authors.Select(a => a.Name).ToList() : new List<string>(),
             }).ToList();
         }
-
-
 
         public void Update(int Id, UpdateBookDTO updateBookDTO)
         {
             var book = _bookRepository.GetAll().FirstOrDefault(x => x.Id == Id);
-            if (book is null)
+            if (book is null || string.IsNullOrWhiteSpace(book.Title))
             {
-                throw new InvalidIdException("Book ID not found to Update");
+                throw new InvalidIdException("Id not found!");
             }
+
+            var authors = _authorRepository.GetAll().Where(a => updateBookDTO.AuthorsId.Contains(a.Id)).ToList();
+
             book.Title = updateBookDTO.Title;
+
+            book.Desc = updateBookDTO.Description;
+
+            book.Authors = authors;
+
+            book.PublishYear = updateBookDTO.PublishedYear;
+
+            book.Update = DateTime.UtcNow.AddHours(4);
+
             _bookRepository.Commit();
         }
     }

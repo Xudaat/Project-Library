@@ -14,5 +14,7 @@ namespace Project___ConsoleApp.Models
         public DateTime ReturnDate { get; set; }
         public List<LoanItem> LoanItems { get; set; }
         public Borrower Borrower { get; set; }
+        public DateTime? ReturnTime { get; set; }
+        public DateTime BorrowDate { get; set; }
     }
 }

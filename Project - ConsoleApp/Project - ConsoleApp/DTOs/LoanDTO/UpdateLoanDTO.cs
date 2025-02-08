@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Project___ConsoleApp.DTOs.LoanDTO
 {
-    internal class UpdateLoanDTO
+    public class UpdateLoanDTO
     {
+        public DateTime ReturnTime { get; set; }
     }
 }

@@ -9,5 +9,6 @@ namespace Project___ConsoleApp.Repository.Interface
 {
     public interface IBookRepository : IGenericRepository<Book>
     {
+       
     }
 }
